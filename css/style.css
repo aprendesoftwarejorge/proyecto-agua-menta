@@ -226,9 +226,14 @@ button {
 }
 
 .logo {
-    width: 42%;
+    width: 25%;
     float: left;
 }
+
+/* .alto{
+    width: 633px;
+    height: 507px;
+} */
 
 .bg-light {
     background-color: transparent !important;
@@ -257,10 +262,11 @@ button {
     padding-bottom: 105px;
 }
 
-.images_1 {
+.image_1 {
     width: 80%;
     float: right;
-    padding-top: 50px;
+    padding-top: 40px;
+    height: 255px;
 }
 
 .banner_taital {
@@ -330,7 +336,11 @@ button {
     border: 4px solid #4bc5b8;
     color: #4bc5b8;
 }
+/* 
+#main_slider{
+    background-image: url('../images/Imagen9_1026162783\ -\ Ana\ Sanchez.jpg');
 
+} */
 #main_slider a.carousel-control-next {
     position: absolute;
     left: 200px;
@@ -384,7 +394,7 @@ button {
 }
 
 .image_main {
-    width: 100%;
+    width: 75%;
     position: relative;
 }
 
@@ -402,7 +412,7 @@ button {
 }
 
 .main {
-    width: 100%;
+    width: 75%;
     margin: 40px 0px 0px 40px;
     box-shadow: 0px 0px 14px 2px #f3f3f3;
     position: relative;
