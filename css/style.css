@@ -225,6 +225,11 @@ button {
     background-repeat: no-repeat;
 }
 
+#menu{
+    background-color:#fff !important;
+    margin-top: -50px;
+}
+
 .logo {
     width: 25%;
     float: left;
